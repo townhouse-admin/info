@@ -1,0 +1,1 @@
+import { BaseLine1Server } from '../shared/base-line1-server.js'; new BaseLine1Server('copilot-hooks', 'Copilot Hooks', 'https://raw.githubusercontent.com/townhouse-admin/Track-N-Show/main/docs/COPILOT_HOOKS.md').run().catch(console.error);

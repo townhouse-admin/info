@@ -1,0 +1,1 @@
+import { BaseLine1Server } from '../shared/base-line1-server.js'; new BaseLine1Server('server-map', 'Server Map TH-1', 'https://raw.githubusercontent.com/townhouse-admin/Track-N-Show/main/docs/SERVER_MAP_TH1.md').run().catch(console.error);

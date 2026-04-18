@@ -1,0 +1,1 @@
+import { BaseLine1Server } from '../shared/base-line1-server.js'; new BaseLine1Server('awesome-agents', 'Awesome Agents Top 20', 'https://raw.githubusercontent.com/townhouse-admin/Track-N-Show/main/docs/AWESOME_AGENTS_TOP20.md').run().catch(console.error);
