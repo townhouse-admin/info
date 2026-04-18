@@ -24,4 +24,6 @@ En inbyggd agent som förstår användarens intention. Istället för att använ
 Ett verktyg för att automatiskt indexera hela systemet och mäta prestanda (startup-tider) för varje domän.
 
 ---
+*Författare: Linus Olofsson (linusolofsson@imagesbyolofsson.se)*
+
 *Denna dokumentation är genererad för `townhouse-admin/info`.*
